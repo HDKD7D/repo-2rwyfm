@@ -1,8 +1,10 @@
 09.16.2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: marleeb1998@aol.com, sarapanther1@yahoo.com
-At: 2026-09-16 15:03:04
-Id: Dde33aaT
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: ramrinne@gmail.com, ijleek@aol.com
+At: 2026-09-16 15:03:44
+Id: K1q65Mpc
